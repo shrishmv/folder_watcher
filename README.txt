@@ -7,3 +7,6 @@ Usage:
 - execute in remote directly
 - save your time trying to execute 'scp local remote' for every changed file
 - no need to use vi to edit code on remote machine
+
+bash alias
+- alias fwatch="python3 /Users/shrishmarnad/Documents/workspace/test_python/folder_watcher/folder_watch_scp.py"
