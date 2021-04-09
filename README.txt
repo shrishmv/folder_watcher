@@ -10,3 +10,4 @@ Usage:
 
 bash alias
 - alias fwatch="python3 /Users/shrishmarnad/Documents/workspace/test_python/folder_watcher/folder_watch_scp.py"
+- alias mytunnel="/Users/shrishmarnad/Documents/workspace/test_bash/tunnel.sh"
